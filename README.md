@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gus.</h1>
-- 👨‍💻 I’m currently learning **computer science at KU(Bangkhen)**
+- 👨‍💻 I’m currently learning computer science at KU(Bangkhen)
 <!--
 **Gruszht6215/Gruszht6215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
