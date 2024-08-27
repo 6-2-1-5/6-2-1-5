@@ -122,6 +122,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=elysia,sass,maven,spring,bun,solidity,go,androidstudio,vite,yarn,notion,selenium,obsidian,mysql,jenkins,mysql,htmx,gitlab,apple,gitlab,flask,idea,fastapi,express,spring&theme=light" />
+  </a>
+</p>
 
 ###
 
