@@ -1,4 +1,4 @@
-<h1 align="center">Just a 0S1D2[Pending] - Alt[6215]+21+5</h1>
+<h1 align="center">Just a 0S1D2[Pending] - Alt[6215]215</h1>
 
 ###
 
@@ -14,12 +14,6 @@
   <!-- <img height="200" src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif"  /> -->
   <img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/92009587580167.5dbc4c0433be8.gif" />
 </div>
-
-###
-
-<h2 align="left">Languages</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -39,15 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
 
-###
-
-<h2 align="left">Frontend</h2>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -81,15 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-</div>
 
-###
-
-<h2 align="left">Backend</h2>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20.svg" height="40" alt="laravel logo"  />
@@ -117,15 +95,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-</div>
 
-###
-
-<h2 align="left">Tools</h2>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laragon/0E83CD.svg" height="40" alt="laragon logo"  />
@@ -157,6 +127,7 @@
 
 <br clear="both">
 
+<!-- <img src="https://raw.githubusercontent.com/Gruszht6215/Gruszht6215/output/snake.svg" alt="Snake animation" /> -->
 <div align="center" width="100%">
     <img height="200" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif" alt="Snake animation" />
 </div>
