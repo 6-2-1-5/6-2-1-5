@@ -15,6 +15,11 @@
   <img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/92009587580167.5dbc4c0433be8.gif" />
 </div>
 
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=elysia,sass,maven,bitbucket,c,cs,cpp,css,discord,bots,discordjs,docker,django,figma,firebase,flutter,git,godot,java,jenkins,jest,js,laravel,md,nextjs,nginx,nodejs,nuxtjs,postgres,react,redux,tailwind,ts,vscode,vue,vuetify,windows,html,spring,bun,solidity,bitbucket,go,androidstudio,vite,github,yarn,notion,selenium,obsidian,mysql,htmx,gitlab,apple,gitlab,flask,idea,fastapi,express,spring&theme=dark" />
+  </a>
+</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo"  />
   <img width="12" />
@@ -42,11 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
-<p align=center>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elysia,sass,maven,bitbucket,c,cs,cpp,css,discord,bots,discordjs,docker,django,figma,firebase,flutter,git,godot,java,jenkins,jest,js,laravel,md,nextjs,nginx,nodejs,nuxtjs,postgres,react,redux,tailwind,ts,vscode,vue,vuetify,windows,html,spring,bun,solidity,bitbucket,go,androidstudio,vite,github,yarn,notion,selenium,obsidian,mysql,htmx,gitlab,apple,gitlab,flask,idea,fastapi,express,spring&theme=dark" />
-  </a>
-</p>
 
 ###
 
