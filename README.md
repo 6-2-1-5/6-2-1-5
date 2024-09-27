@@ -18,7 +18,7 @@
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=elysia,sass,maven,bitbucket,c,cs,cpp,css,discord,bots,discordjs,docker,django,figma,firebase,flutter,gcp,git,godot,java,jenkins,jest,js,laravel,md,nextjs,nginx,nodejs,nuxtjs,postgres,react,redux,tailwind,ts,vscode,vue,vuetify,windows,html,spring,bun,solidity,bitbucket,go,androidstudio,vite,github,yarn,notion,selenium,obsidian,mysql,htmx,gitlab,apple,gitlab,flask,idea,fastapi,express,spring&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=elysia,sass,maven,bitbucket,c,cs,cpp,css,discord,bots,discordjs,docker,django,figma,firebase,flutter,gcp,git,godot,java,jenkins,jest,js,laravel,md,nextjs,nginx,nodejs,nuxtjs,postgres,react,redis,redux,tailwind,ts,vscode,vue,vuetify,windows,html,spring,bun,solidity,bitbucket,go,androidstudio,vite,github,yarn,notion,selenium,obsidian,mysql,htmx,gitlab,apple,gitlab,flask,idea,fastapi,express,spring&theme=dark" />
   </a>
 </p>
 <div align="left">
@@ -27,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
   <img width="12" />
