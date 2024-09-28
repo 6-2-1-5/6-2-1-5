@@ -1,4 +1,4 @@
-<h1 align="center">Alt[6215]215</h1>
+<h1 align="center">6215</h1>
 
 ###
 
