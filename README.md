@@ -4,12 +4,9 @@
 
 <div align="center">
     <img align="center" src="https://profile-counter.glitch.me/Gruszht6215/count.svg?"  />
-    <img align="center" src="https://profile-counter.glitch.me/6-2-1-5/count.svg?"  />
 </div>
 
-###
-
-<br clear="both">
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=6-2-1-5&theme=react-dark&hide_border=true&grid=true&custom_title=6215's%20Contribution%20Graph" alt="GitHub Streak"/>
 
 <div align="center" width="100%">
   <!-- <img height="200" src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif"  /> -->
@@ -42,7 +39,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=6-2-1-5&theme=react-dark&hide_border=true&grid=true&custom_title=6215's%20Contribution%20Graph" alt="GitHub Streak"/>
 
 ###
 
@@ -51,6 +47,9 @@
 <!-- <img src="https://raw.githubusercontent.com/Gruszht6215/Gruszht6215/output/snake.svg" alt="Snake animation" /> -->
 <div align="center" width="100%">
     <img height="200" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif" alt="Snake animation" />
+</div>
+<div align="center" width="100%">
+    <img align="center" src="https://profile-counter.glitch.me/6-2-1-5/count.svg?"  />
 </div>
 
 ###
