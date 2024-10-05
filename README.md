@@ -42,6 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph/?username=6-2-1-5&theme=react-dark&hide_border=true&grid=true&custom_title=6215's%20Contribution%20Graph" alt="GitHub Streak"/>
 
 ###
 
