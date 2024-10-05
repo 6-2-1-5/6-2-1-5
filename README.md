@@ -18,10 +18,10 @@
 
 <p align=center>
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=apple,elysia,sass,maven,bitbucket,c,cs,cpp,css,discord,bots,discordjs,docker,django,figma,firebase,flutter,gcp,git,gitlab,godot,java,jenkins,jest,js,laravel,md,nextjs,nginx,nodejs,nuxtjs,postgres,react,redis,redux,tailwind,ts,vscode,vue,vuetify,windows,html,spring,bun,solidity,bitbucket,go,androidstudio,vite,github,yarn,notion,selenium,obsidian,mysql,htmx,flask,idea,fastapi,express,spring&theme=dark" />Ï
+      <img src="https://skillicons.dev/icons?i=apple,elysia,sass,maven,bitbucket,c,cs,cpp,css,discord,bots,discordjs,docker,django,figma,firebase,flutter,gcp,git,gitlab,godot,java,jenkins,jest,js,laravel,md,nextjs,nginx,nodejs,nuxtjs,postgres,react,redis,redux,tailwind,ts,vscode,vue,vuetify,windows,html,bun,solidity,bitbucket,go,androidstudio,vite,github,yarn,notion,selenium,obsidian,mysql,htmx,flask,idea,fastapi,express,spring&theme=dark" />Ï
   </a>
 </p>
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="40" alt="sourcetree logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-</div>
+</div> -->
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=6-2-1-5&theme=react-dark&hide_border=true&grid=true&custom_title=6215's%20Contribution%20Graph" alt="GitHub Streak"/>
 
 ###
