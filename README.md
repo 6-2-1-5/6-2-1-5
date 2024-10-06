@@ -1,10 +1,8 @@
-<h1 align="center">6215</h1>
+ <!--<h1 align="center">6215</h1> -->
 
-###
-
-<div align="center">
+ <!--<div align="center">
     <img align="center" src="https://profile-counter.glitch.me/Gruszht6215/count.svg?"  />
-</div>
+</div>-->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=6-2-1-5&theme=react-dark&hide_border=true&grid=true&custom_title=6215's%20Contribution%20Graph" alt="GitHub Streak"/>
 
@@ -47,6 +45,9 @@
 <!-- <img src="https://raw.githubusercontent.com/Gruszht6215/Gruszht6215/output/snake.svg" alt="Snake animation" /> -->
 <div align="center" width="100%">
     <img height="200" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif" alt="Snake animation" />
+</div>
+<div align="center">
+    <img align="center" src="https://profile-counter.glitch.me/Gruszht6215/count.svg?"  />
 </div>
 <div align="center" width="100%">
     <img align="center" src="https://profile-counter.glitch.me/6-2-1-5/count.svg?"  />
