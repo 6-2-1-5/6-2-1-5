@@ -16,11 +16,11 @@
 
 <div align="center">
  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=6-2-1-5&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=6-2-1-5&theme=algolia&hide_border=true)](https://github.com/6-2-1-5)
 
   ![GitHub stats](https://github-readme-stats-two-kappa-28.vercel.app/api?username=6-2-1-5&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 
-  [![Top Langs](https://github-readme-stats-two-kappa-28.vercel.app/api/top-langs/?username=6-2-1-5&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-two-kappa-28.vercel.app/api/top-langs/?username=6-2-1-5&layout=compact&theme=transparent&hide_border=true)](https://github.com/6-2-1-5)
   
   <div align="center">
       <img src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif" alt="Snake animation" height="200">
