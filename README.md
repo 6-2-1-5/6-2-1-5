@@ -27,14 +27,3 @@
   </div>
 
 </div>
-
----
-
-<div align="center">
-<!--  <div align="center">
-  <img src="https://profile-counter.glitch.me/Gruszht6215/count.svg" alt="Gruszht6215 Profile Views">
-  <br>
-  <img src="https://profile-counter.glitch.me/6-2-1-5/count.svg" alt="6-2-1-5 Profile Views">
-</div> -->
-  <i>Hello, World! 🚀</i>
-</div>
