@@ -1,7 +1,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=6-2-1-5&theme=react-dark&hide_border=true&grid=true&custom_title=6215's%20Contribution%20Graph" alt="GitHub Contribution Graph" width="100%">
 
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/92009587580167.5dbc4c0433be8.gif" alt="Welcome Banner" width="100%">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/92009587580167.5dbc4c0433be8.gif" alt="Welcome Banner" height="200">
 </div>
 
 ## 🛠 Skills & Technologies
